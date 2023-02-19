@@ -1,0 +1,22 @@
+.MovieList{
+    display: flex;
+   padding: 70px;
+    flex-wrap: wrap;
+}
+.serch{
+
+   padding: 5px;
+   border-radius: 20px;
+  border: 1px solid transparent;
+  padding: 10px;
+  width: 150px;
+  margin-top: 20px;
+  margin-left: 50px;
+  width: 200px;
+}
+.serch:hover{
+    border: none;
+}
+i{
+    color: gray;
+}
